@@ -1,8 +1,14 @@
 # student_managemt
 # its record management system
 # source code of Student management system is 
-#include<stdio.h>
+Hi, I’m @sauravkashyap123
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
+
+#include<stdio.h>
 #include<string.h>
 #include<conio.h>
 #include<windows.h>
